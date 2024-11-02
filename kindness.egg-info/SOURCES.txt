@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+kindness/__init__.py
+kindness/core.py
+kindness.egg-info/PKG-INFO
+kindness.egg-info/SOURCES.txt
+kindness.egg-info/dependency_links.txt
+kindness.egg-info/top_level.txt
+tests/test_kindness.py
